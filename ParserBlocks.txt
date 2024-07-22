@@ -1,0 +1,36 @@
+FileName: Textures.png
+BlockBegin
+	nameBlock: BlueBlock
+	Size: ()
+	ULCorner: (0, 0)
+BlockEnd
+BlockBegin
+	nameBlock: RedBlock
+	Size: ()
+	ULCorner: (16, 0)
+BlockEnd
+BlockBegin
+	nameBlock: YellowBlock
+	Size: ()
+	ULCorner: (32, 0)
+BlockEnd
+BlockBegin
+	nameBlock: BrownBlock
+	Size: ()
+	ULCorner: (48, 0)
+BlockEnd
+BlockBegin
+	nameBlock: CyanicBlock
+	Size: ()
+	ULCorner: (64, 0)
+BlockEnd
+BlockBegin
+	nameBlock: VioletBlock
+	Size: ()
+	ULCorner: (80, 0)
+BlockEnd
+BlockBegin
+	nameBlock: GreenBlock
+	Size: ()
+	ULCorner: (96, 0)
+BlockEnd

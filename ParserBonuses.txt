@@ -1,0 +1,177 @@
+FileName: Textures.png
+BonusBegin
+	Name: YB
+	Size: (16, 7)
+	Frame1: (0, 128) 
+	Frame2: (16, 128)
+	Frame3: (32, 128)
+	Frame4: (48, 128)
+	Frame5: (64, 128)
+	Frame6: (80, 128)
+	Frame7: (96, 128)
+BonusEnd
+BonusBegin 
+	Name: YR
+	Size: (16, 7)
+	Frame1: (0, 135)
+	Frame2: (16, 135)
+	Frame3: (32, 135)
+	Frame4: (48, 135)
+	Frame5: (64, 135)
+	Frame6: (80, 135)
+	Frame7: (96, 135)
+BonusEnd
+BonusBegin
+	Name: YT
+	Size: (16, 7)
+	Frame1: (0, 142)
+	Frame2: (16, 142)
+	Frame3: (32, 142)
+	Frame4: (48, 142)
+	Frame5: (64, 142)
+	Frame6: (80, 142)
+	Frame7: (96, 142)
+BonusEnd
+BonusBegin
+	Name: YA
+	Size: (16, 7)
+	Frame1: (0, 149)
+	Frame2: (16, 149)
+	Frame3: (32, 149)
+	Frame4: (48, 149)
+	Frame5: (64, 149)
+	Frame6: (80, 149)
+	Frame7: (96, 149)
+BonusEnd
+BonusBegin
+	Name: YP
+	Size: (16, 7)
+	Frame1: (0, 156)
+	Frame2: (16, 156)
+	Frame3: (32, 156)
+	Frame4: (48, 156)
+	Frame5: (64, 156)
+	Frame6: (80, 156)
+	Frame7: (96, 156)
+BonusEnd
+BonusBegin
+	Name: YV
+	Size: (16, 7)
+	Frame1: (0, 163)
+	Frame2: (16, 163)
+	Frame3: (32, 163)
+	Frame4: (48, 163)
+	Frame5: (64, 163)
+	Frame6: (80, 163)
+	Frame7: (96, 163)
+BonusEnd
+BonusBegin
+	Name: YG
+	Size: (16, 7)
+	Frame1: (0, 170)
+	Frame2: (16, 170)
+	Frame3: (32, 170)
+	Frame4: (48, 170)
+	Frame5: (64, 170)
+	Frame6: (80, 170)
+	Frame7: (96, 170)
+BonusEnd
+BonusBegin
+	Name: YS
+	Size: (16, 7)
+	Frame1: (0, 177)
+	Frame2: (16, 177)
+	Frame3: (32, 177)
+	Frame4: (48, 177)
+	Frame5: (64, 177)
+	Frame6: (80, 177)
+	Frame7: (96, 177)
+BonusEnd
+BonusBegin
+	Name: YM
+	Size: (16, 7)
+	Frame1: (0, 184)
+	Frame2: (16, 184)
+	Frame3: (32, 184)
+	Frame4: (48, 184)
+	Frame5: (64, 184)
+	Frame6: (80, 184)
+	Frame7: (96, 184)
+BonusEnd
+BonusBegin
+	Name: RS
+	Size: (16, 7)
+	Frame1: (0, 191)
+	Frame2: (16, 191)
+	Frame3: (32, 191)
+	Frame4: (48, 191)
+	Frame5: (64, 191)
+	Frame6: (80, 191)
+	Frame7: (96, 191)
+BonusEnd
+BonusBegin
+	Name: RI
+	Size: (16, 7)
+	Frame1: (0, 198)
+	Frame2: (16, 198)
+	Frame3: (32, 198)
+	Frame4: (48, 198)
+	Frame5: (64, 198)
+	Frame6: (80, 198)
+	Frame7: (96, 198)
+BonusEnd
+BonusBegin
+	Name: RF
+	Size: (16, 7)
+	Frame1: (0, 205)
+	Frame2: (16, 205)
+	Frame3: (32, 205)
+	Frame4: (48, 205)
+	Frame5: (64, 205)
+	Frame6: (80, 205)
+	Frame7: (96, 205)
+BonusEnd
+BonusBegin
+	Name: RT
+	Size: (16, 7)
+	Frame1: (0, 212)
+	Frame2: (16, 212)
+	Frame3: (32, 212)
+	Frame4: (48, 212)
+	Frame5: (64, 212)
+	Frame6: (80, 212)
+	Frame7: (96, 212)
+BonusEnd
+BonusBegin
+	Name: GN
+	Size: (16, 7)
+	Frame1: (0, 219)
+	Frame2: (16, 219)
+	Frame3: (32, 219)
+	Frame4: (48, 219)
+	Frame5: (64, 219)
+	Frame6: (80, 219)
+	Frame7: (96, 219)
+BonusEnd
+BonusBegin
+	Name: GL
+	Size: (16, 7)
+	Frame1: (0, 226)
+	Frame2: (16, 226)
+	Frame3: (32, 226)
+	Frame4: (48, 226)
+	Frame5: (64, 226)
+	Frame6: (80, 226)
+	Frame7: (96, 226)
+BonusEnd
+BonusBegin
+	Name: VX
+	Size: (16, 7)
+	Frame1: (0, 233)
+	Frame2: (16, 233)
+	Frame3: (32, 233)
+	Frame4: (48, 233)
+	Frame5: (64, 233)
+	Frame6: (80, 233)
+	Frame7: (96, 233)
+BonusEnd

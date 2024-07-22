@@ -1,0 +1,46 @@
+FileName: Fields.png
+FieldBegin
+	nameField: LightBlue
+	ULCorner: (0, 0)
+	LRCirner: (223, 239)
+FieldEnd
+FieldBegin
+	nameField: LightGreen
+	ULCorner: (232, 0)
+	LRCirner: (455, 239)
+FieldEnd
+FieldBegin
+	nameField: LightBlueFuturistic
+	ULCorner: (464, 0)
+	LRCirner: (687, 239)
+FieldEnd
+FieldBegin
+	nameField: LightRedFuturistic
+	ULCorner: (696, 0)
+	LRCirner: (919, 239)
+FieldEnd
+FieldBegin
+	nameField: LightRed
+	ULCorner: (928, 0)
+	LRCirner: (1151, 239)
+FieldEnd
+FieldBegin
+	nameField: DarkBlue
+	ULCorner: (0, 256)
+	LRCirner: (223, 495)
+FieldEnd
+FieldBegin
+	nameField: DarkGreen
+	ULCorner: (232, 256)
+	LRCirner: (455, 495)
+FieldEnd
+FieldBegin
+	nameField: DarkBlueFuturistic
+	ULCorner: (464, 256)
+	LRCirner: (687, 495)
+FieldEnd
+FieldBegin
+	nameField: DarkRedFuturistic
+	ULCorner: (696, 256)
+	LRCirner: (919, 495)
+FieldEnd

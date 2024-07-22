@@ -1,0 +1,3 @@
+﻿  Arcanoid.cpp
+C:\Users\Gelle\source\repos\Arcanoid\ManagerInput.h(17,2): warning C4091: typedef : пропускается слева от "ManagerInput", когда ни одна переменная не объявлена
+  Arcanoid.vcxproj -> C:\Users\Gelle\source\repos\Arcanoid\x64\Debug\Arcanoid.exe

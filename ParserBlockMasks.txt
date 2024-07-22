@@ -1,0 +1,10 @@
+FileName: Textures.png
+MaskBegin
+	Destruction1: (176, 128, 191, 135)
+	Destruction2: (192, 128, 207, 135)
+	Destruction3: (208, 128, 223, 135)
+	Destruction4: (224, 128, 239, 135)
+	Destruction5: (240, 128, 255, 135)
+	Destruction6: (256, 128, 271, 135)
+	Destruction7: (272, 128, 287, 135)
+MaskEnd
